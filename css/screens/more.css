@@ -39,3 +39,8 @@
   font-size: 32px;
   color: white;
 }
+
+.more-screen .user-component__subtitle i:hover {
+  position: absolute;
+  animation: notificationAninmation 2s ease-in-out infinite;
+}
